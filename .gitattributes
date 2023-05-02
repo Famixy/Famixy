@@ -1,0 +1,5 @@
+#*.md linguist-language=html
+#MarkDown
+
+*.md linguist-detectable=true
+*.md linguist-documentation=false
